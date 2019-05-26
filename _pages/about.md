@@ -22,13 +22,11 @@ Publication
 Work experience
 =====
 
-| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/davian.png" alt=""> </figure> | **Data Visual Analytics Lab, Korea University** <br/> Undergraduate Intern / *September, 2019 ~ Feburary, 2019* <br/> |
+<figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/davian.png" alt=""> </figure> | **Data Visual Analytics Lab, Korea University** <br/> Undergraduate Intern / *September, 2019 ~ Feburary, 2019* <br/>
 
 | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/naver.png" alt=""> </figure> |  **Naver, Clova Multimedia Team** <br/> Reasearch Intern / *June, 2018 ~ September, 2018* <br/> 
 
  <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/SNUH.jpg" alt=""> </figure> |  **Seoul National University Hospital, Division of Clinical Bioinformatics**<br/>Reasearch Intern / *June, 2017 ~ January, 2018*<br/> |
-
- | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/naver.jpg" alt=""> </figure> | **Semantic Image Synthesis with Spatially-Adaptive Normalization**<br/>**Taesung Park**, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu<br/>CVPR 2019 (Oral)<br/> [project](https://nvlabs.github.io/SPADE/) |
 
 
 <!-- Teaching
