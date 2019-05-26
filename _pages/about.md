@@ -13,8 +13,8 @@ I am a MS student in Computer Science at Korea University, advised by [Prof. Jae
 Publication
 ======
 
-**Unpaired Image Translation via Adaptive Convolution-based Normalization**<br/>Wonwoong cho, **Kangyeol Kim**, Eungyeup Kim, Hyunwoo Kim, Jaegul Choo<br/>NIPS 2019, *submitted* <br/>
-**Human-Machine Integrated Labeling and Learning for Colorectal Pathology Classification**<br/>**Kangyeol Kim**, David Park, Minsuk Choi, Jeong Hyeon Lee, Soonwook Kwon, Jaegul Choo<br/>MICCAI 2019, *submitted *<br/>
+- **Unpaired Image Translation via Adaptive Convolution-based Normalization**<br/>Wonwoong cho, **Kangyeol Kim**, Eungyeup Kim, Hyunwoo Kim, Jaegul Choo<br/>NIPS 2019, *submitted* <br/>
+- **Human-Machine Integrated Labeling and Learning for Colorectal Pathology Classification**<br/>**Kangyeol Kim**, David Park, Minsuk Choi, Jeong Hyeon Lee, Soonwook Kwon, Jaegul Choo<br/>MICCAI 2019, *submitted*<br/>
 
 <!-- | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cycada.jpg" alt=""> </figure> | **CyCADA: Cycle-Consistent Adversarial Domain Adaptation**<br/>Judy Hoffman, Eric Tzeng, **Taesung Park**, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei Efros, Trevor Darrell<br/>ICML 2018<br/>[paper](https://arxiv.org/pdf/1711.03213.pdf) \| [code](https://github.com/jhoffman/cycada_release) | -->
 <!-- | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/humanioc.png" alt=""> </figure> |  **Inverse Optimal Control for Humanoid Locomotion**<br/>**Taesung Park**, Sergey Levine<br/>RSS Workshop on Inverse Optimal Control & Robotic Learning from Demonstration, 2013<br/>[Paper]({{ site.url }}{{ site.baseurl }}/files/humanioc.pdf)| -->
@@ -22,11 +22,11 @@ Publication
 Work experience
 =====
 
-| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/davian.png" alt=""> </figure>   **Data Visual Analytics Lab, Korea University** <br/> Undergraduate Intern / *September, 2019 ~ Feburary, 2019* <br/> |
+| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/davian.png" alt=""> </figure> | **Data Visual Analytics Lab, Korea University** <br/> Undergraduate Intern / *September, 2019 ~ Feburary, 2019* <br/> |
 
 | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/naver.png" alt=""> </figure> |  **Naver, Clova Multimedia Team** <br/> Reasearch Intern / *June, 2018 ~ September, 2018* <br/> 
 
-| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/SNUH.png" alt=""> </figure> |  **Seoul National University Hospital, Division of Clinical Bioinformatics**<br/>Reasearch Intern / *June, 2017 ~ January, 2018*<br/> |
+ <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/SNUH.jpg" alt=""> </figure> |  **Seoul National University Hospital, Division of Clinical Bioinformatics**<br/>Reasearch Intern / *June, 2017 ~ January, 2018*<br/> |
 
 <!-- Teaching
 ======
