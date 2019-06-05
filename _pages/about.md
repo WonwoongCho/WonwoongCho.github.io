@@ -13,7 +13,7 @@ I am a MS student in Computer Science at Korea University, advised by [Prof. Jae
 Publication
 ======
 
-- **Unpaired Image Translation via Adaptive Convolution-based Normalization**<br/>Wonwoong cho, **Kangyeol Kim**, Eungyeup Kim, Hyunwoo Kim, Jaegul Choo<br/> *(Under review)* <br/>
+- **Unpaired Image Translation via Adaptive Convolution-based Normalization**<br/>Wonwoong cho\*, **Kangyeol Kim\***, Eungyeup Kim, Hyunwoo Kim, Jaegul Choo<br/> *(Under review)* <br/>
 - **Human-Machine Integrated Labeling and Learning for Colorectal Pathology Classification**<br/>**Kangyeol Kim**, David Park, Minsuk Choi, Jeong Hyeon Lee, Soonwook Kwon, Jaegul Choo<br/>*(Under review)*<br/>
 
 
