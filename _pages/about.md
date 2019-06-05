@@ -30,10 +30,13 @@ Work experience
  | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/SNUH.jpg" alt=""> </figure> |  **Seoul National University Hospital, Division of Clinical Bioinformatics**<br/>Reasearch Intern / *June, 2017 ~ January, 2018*<br/> |
 
 
-<!-- Teaching
+Teaching experience
 ======
 
-CS194-26 at UC Berkeley. **Image Manipulation and Computational Photography**. [link](https://inst.eecs.berkeley.edu/~cs194-26/fa18/)  
+* AI course at SK telecom. Course Assistant. Summer 2019
+
+
+<!-- CS194-26 at UC Berkeley. **Image Manipulation and Computational Photography**. [link](https://inst.eecs.berkeley.edu/~cs194-26/fa18/)  
 Fall 2018. Head TA 
 
 CS188 at UC Berkeley. **Introduction to Artificial Intelligence**. [link](https://inst.eecs.berkeley.edu/~cs188/)  
