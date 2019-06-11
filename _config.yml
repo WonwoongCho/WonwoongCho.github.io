@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kangyeol Kim"
+title                    : "Wonwoong Cho"
 title_separator          : "-"
-name                     : &name "Kangyeol Kim"
+name                     : &name "Wonwoong Cho"
 description              : &description "MS Student at Korea University"
-url                      : https://kangyeol-kim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://WonwoongCho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kangyeol-kim/kangyeol-kim.github.io"
+repository               : "WonwoongCho/WonwoongCho.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kangyeol Kim"
+  name             : "Wonwoong Cho"
   avatar           : "profile.jpg"
   bio              : "MS student at Korea University"
   location         : "Seoul, Korea"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kangyeol-kim"
+  github           : "WonwoongCho"
   google_plus      :
   keybase          :
   instagram        :
