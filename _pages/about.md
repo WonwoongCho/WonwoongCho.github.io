@@ -17,7 +17,7 @@ Publication
 **Wonwoong cho\***, Kangyeol Kim\*, Eungyeup Kim, Hyunwoo Kim, Jaegul Choo<br/>
 *(Under review)* <br/>
 
-- **What and Where to Translate: Local Mask-based Image-to-Image Translation** [[link](https://arxiv.org/abs/1906.03598)<br/>]
+- **What and Where to Translate: Local Mask-based Image-to-Image Translation** [[link](https://arxiv.org/abs/1906.03598)]<br/>
 **Wonwoong Cho**, Seunghwan Choi, Junwoo Park, David Keetae Park, Jaegul Choo<br/>
 Submitted to IJCV special issue: Generative Adversarial Networks for Computer Vision, *(Under review)*<br/>
 
