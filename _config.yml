@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wonwoong Cho"
+title                    : "Wonwoong"
 title_separator          : "-"
 name                     : &name "Wonwoong Cho"
 description              : &description "MS Student at Korea University"
-url                      : https://WonwoongCho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Wonwoong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "WonwoongCho/WonwoongCho.github.io"
+repository               : "Wonwoong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,15 @@ analytics:
 author:
   name             : "Wonwoong Cho"
   avatar           : "profile.jpg"
-  bio              : "MS student at Korea University"
+  bio              : "
+                      MS student at Korea University
+                      Research Interest: Image-to-Image Translation, Style Transfer, Interactive Deep Learning
+                      "
   location         : "Seoul, Korea"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : kky1994@korea.ac.kr
+#   employer         :
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#   googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : tyflehd21@korea.ac.kr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +106,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0898-0341"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
