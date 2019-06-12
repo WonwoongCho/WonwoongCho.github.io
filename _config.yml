@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Wonwoong"
 title_separator          : "-"
-name                     : &name "Wonwoong Cho"
+name                     : &name "Wonwoong"
 description              : &description "MS Student at Korea University"
 url                      : https://WonwoongCho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wonwoong Cho"
+  name             : "Wonwoong"
   avatar           : "profile.jpg"
   bio              : "
                       MS student at Korea University
