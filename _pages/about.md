@@ -31,12 +31,12 @@ CVPR2019 (oral)<br/>
 - **A Comparison of the Effects of Data Imputation Methods on Model Performance** <br/>
 [[paper](https://ieeexplore.ieee.org/abstract/document/8702000)]<br/>
 Wooyoung Kim\*, **Wonwoong Cho\***, Jangho Choi, Jiyong Kim, Cheonbok Park, Jaegul Choo<br/>
-ICACT2019 (<sup>\*</sup> indicates equal contribution)<br/>
+ICACT2019 (\* indicates equal contribution)<br/>
 
 - **Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation**<br/>
 [[paper](https://arxiv.org/abs/1804.04128)]<br/>
 Hyojin Bahng\*, Seungjoo Yoo\*, **Wonwoong Cho\***, David Keetae Park, Ziming Wu, Xiaojuan Ma, Jaegul Choo<br/>
-ECCV2018 (<sup>\*</sup> indicates equal contribution)<br/>
+ECCV2018 (\* indicates equal contribution)<br/>
 
 
 
