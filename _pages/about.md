@@ -14,7 +14,7 @@ Publication
 ======
 
 - **Unpaired Image Translation via Adaptive Convolution-based Normalization**<br/>
-**Wonwoong cho\***, Kangyeol Kim<sup>\*</sup>, Eungyeup Kim, Hyunwoo Kim, Jaegul Choo<br/>
+**Wonwoong cho<sup>\*</sup>**, Kangyeol Kim<sup>\*</sup>, Eungyeup Kim, Hyunwoo Kim, Jaegul Choo<br/>
 *(Under review)* <br/>
 
 - **What and Where to Translate: Local Mask-based Image-to-Image Translation** <br/>
@@ -30,13 +30,13 @@ CVPR2019 (oral)<br/>
 
 - **A Comparison of the Effects of Data Imputation Methods on Model Performance** <br/>
 [[paper](https://ieeexplore.ieee.org/abstract/document/8702000)]<br/>
-Wooyoung Kim\*, **Wonwoong Cho\***, Jangho Choi, Jiyong Kim, Cheonbok Park, Jaegul Choo<br/>
-ICACT2019 (* indicates equal contribution)<br/>
+Wooyoung Kim<sup>\*</sup>, **Wonwoong Cho<sup>\*</sup>**, Jangho Choi, Jiyong Kim, Cheonbok Park, Jaegul Choo<br/>
+ICACT2019 (<sup>\*</sup> indicates equal contribution)<br/>
 
 - **Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation**<br/>
 [[paper](https://arxiv.org/abs/1804.04128)]<br/>
-Hyojin Bahng\*, Seungjoo Yoo\*, **Wonwoong Cho\***, David Keetae Park, Ziming Wu, Xiaojuan Ma, Jaegul Choo<br/>
-ECCV2018 (* indicates equal contribution)<br/>
+Hyojin Bahng<sup>\*</sup>, Seungjoo Yoo<sup>\*</sup>, **Wonwoong Cho<sup>\*</sup>**, David Keetae Park, Ziming Wu, Xiaojuan Ma, Jaegul Choo<br/>
+ECCV2018 (<sup>\*</sup> indicates equal contribution)<br/>
 
 
 
