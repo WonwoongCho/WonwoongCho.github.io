@@ -8,22 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a MS student in Computer Science at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). My resaech intersest lies in medical imaging, image translation and trustworthy deep learning. I received B.S. in Statistics and Computer Science in at Korea University. 
+I am a MS student in Computer Science at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). My resaech intersest lies in image-to-image translation, style transfer and interactive deep learning. I received B.S. in Statistics and Computer Science in at Korea University. 
 
 Publication
 ======
 
 - **Unpaired Image Translation via Adaptive Convolution-based Normalization**<br/>
 **Wonwoong cho\***, Kangyeol Kim\*, Eungyeup Kim, Hyunwoo Kim, Jaegul Choo<br/>
-*(Under review)*. <br/>
+*(Under review)* <br/>
 
 - **What and Where to Translate: Local Mask-based Image-to-Image Translation**<br/>
 **Wonwoong Cho**, Seunghwan Choi, Junwoo Park, David Keetae Park, Jaegul Choo<br/>
-Submitted to IJCV special issue: Generative Adversarial Networks for Computer Vision, *(Under review)*.<br/>
+Submitted to IJCV special issue: Generative Adversarial Networks for Computer Vision, *(Under review)*<br/>
 
 - **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation**<br/>
 **Wonwoong Cho**, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo<br/>
-CVPR2019 (oral).<br/>
+CVPR2019 (oral)<br/>
+
+- **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation**<br/>
+Hyojin Bahng\*, Seungjoo Yoo\*, **Wonwoong Cho\***, David Keetae Park, Ziming Wu, Xiaojuan Ma, Jaegul Choo<br/>
+ECCV2018 (* indicates equal contribution)<br/>
 
 
 
