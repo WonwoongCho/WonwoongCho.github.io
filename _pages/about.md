@@ -23,7 +23,7 @@ Publication
 Submitted to IJCV special issue: Generative Adversarial Networks for Computer Vision, *(Under review)*<br/>
 
 - **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation** <br/>
-[[paper](https://arxiv.org/abs/1812.09912)]<br/>
+[[paper](https://arxiv.org/abs/1812.09912)] | [[code](https://github.com/WonwoongCho/GDWCT)]<br/>
 **Wonwoong Cho**, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo<br/>
 CVPR2019 (oral)<br/>
 
@@ -43,54 +43,10 @@ ECCV2018 (* indicates equal contribution)<br/>
 <!-- | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cycada.jpg" alt=""> </figure> | **CyCADA: Cycle-Consistent Adversarial Domain Adaptation**<br/>Judy Hoffman, Eric Tzeng, **Taesung Park**, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei Efros, Trevor Darrell<br/>ICML 2018<br/>[paper](https://arxiv.org/pdf/1711.03213.pdf) \| [code](https://github.com/jhoffman/cycada_release) | -->
 <!-- | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/humanioc.png" alt=""> </figure> |  **Inverse Optimal Control for Humanoid Locomotion**<br/>**Taesung Park**, Sergey Levine<br/>RSS Workshop on Inverse Optimal Control & Robotic Learning from Demonstration, 2013<br/>[Paper]({{ site.url }}{{ site.baseurl }}/files/humanioc.pdf)| -->
 
-Work experience
-=====
-
-| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/davian.png" alt=""> </figure> | **Data Visual Analytics Lab, Korea University** <br/> Undergraduate Intern / *September, 2019 ~ Feburary, 2019* <br/> | 
-
-| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/naver.png" alt=""> </figure> |  **Naver, Clova Multimedia Team** <br/> Reasearch Intern / *June, 2018 ~ September, 2018* <br/> | 
-
- | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/SNUH.jpg" alt=""> </figure> |  **Seoul National University Hospital, Division of Clinical Bioinformatics**<br/>Reasearch Intern / *June, 2017 ~ January, 2018*<br/> |
-
-
-Teaching experience
-======
-
-* AI course at SK telecom. Course Assistant. Summer 2019
-
-
-<!-- CS194-26 at UC Berkeley. **Image Manipulation and Computational Photography**. [link](https://inst.eecs.berkeley.edu/~cs194-26/fa18/)  
-Fall 2018. Head TA 
-
-CS188 at UC Berkeley. **Introduction to Artificial Intelligence**. [link](https://inst.eecs.berkeley.edu/~cs188/)  
-Spring 2017. TA
-
-CS148 at Stanford. **Intro to Computer Graphics and Imaging**.   
-Summer 2012. Course Assistant.  -->
-
-
-Review
-=====
-- MICCAI 2019
-
-<!-- Recorded Talks
-======
-
-- CVPR 2018 Tutorial on GANs. [link](https://youtu.be/EXLRZr0k8ok?t=46m36s)  
-- ICCV 2017 Spotlight talk on CycleGAN [link](https://www.youtube.com/watch?v=AxrKVfjSBiA&feature=youtu.be)   
-- ICCV 2017 Live Demo [link](https://www.youtube.com/watch?v=chi6aBvLMT0)  
-- Talk at Naver (June 2017) [link](https://www.youtube.com/watch?v=Fkqf3dS9Cqw)   -->
-
-Photography
-=======
-
-TO BE UPDATED. 
-
-<!-- I like to take short trips from campus and shoot photos of the beautiful Californian nature. You can view them [here](https://500px.com/taesungpark) -->
 
 CV
 ======
 
-TO BE UPDATED.
+Here is my [CV](https://drive.google.com/open?id=1E8NYlfRZd5hABpRxoGldEVTd0KuAhEpO)
 
 <!-- Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/CV_TaesungPark_20190318.pdf) -->
