@@ -13,9 +13,19 @@ I am a MS student in Computer Science at Korea University, advised by [Prof. Jae
 Publication
 ======
 
-- **Unpaired Image Translation via Adaptive Convolution-based Normalization**<br/> **Wonwoong cho\***, Kangyeol Kim\*, Eungyeup Kim, Hyunwoo Kim, Jaegul Choo, Submittd to the top conference of machine learning field, *(Under review)*. <br/>
-- **What and Where to Translate: Local Mask-based Image-to-Image Translation**<br/>**Wonwoong Cho**, Seunghwan Choi, Junwoo Park, David Keetae Park, Jaegul Choo, Submitted to International Journal of Computer Vision (IJCV), special issue: Generative Adversarial Networks for Computer Vision, *(Under review)*.<br/>
-- **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation**<br/>**Wonwoong Cho**, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo, CVPR2019 (oral).<br/>
+- **Unpaired Image Translation via Adaptive Convolution-based Normalization**<br/>
+**Wonwoong cho\***, Kangyeol Kim\*, Eungyeup Kim, Hyunwoo Kim, Jaegul Choo<br/>
+*(Under review)*. <br/>
+
+- **What and Where to Translate: Local Mask-based Image-to-Image Translation**<br/>
+**Wonwoong Cho**, Seunghwan Choi, Junwoo Park, David Keetae Park, Jaegul Choo<br/>
+Submitted to IJCV special issue: Generative Adversarial Networks for Computer Vision, *(Under review)*.<br/>
+
+- **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation**<br/>
+**Wonwoong Cho**, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo<br/>
+CVPR2019 (oral).<br/>
+
+
 
 
 <!-- | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cycada.jpg" alt=""> </figure> | **CyCADA: Cycle-Consistent Adversarial Domain Adaptation**<br/>Judy Hoffman, Eric Tzeng, **Taesung Park**, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei Efros, Trevor Darrell<br/>ICML 2018<br/>[paper](https://arxiv.org/pdf/1711.03213.pdf) \| [code](https://github.com/jhoffman/cycada_release) | -->
