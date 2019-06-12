@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a MS student in Computer Science at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). My resaech intersest lies in image-to-image translation, style transfer and interactive deep learning. I received B.S. in Dept. of "Film, Television and Multimedia" at Sungkyunkwan University. 
+I am a MS student in Computer Science at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). My research intersest lies in image-to-image translation, style transfer and interactive deep learning. I received B.S. in Dept. of "Film, Television and Multimedia" at Sungkyunkwan University. 
 
 Publication
 ======
