@@ -20,7 +20,8 @@ Publication
 - **What and Where to Translate: Local Mask-based Image-to-Image Translation** <br/>
 [[paper](https://arxiv.org/abs/1906.03598)]<br/>
 **Wonwoong Cho**, Seunghwan Choi, Junwoo Park, David Keetae Park, Jaegul Choo<br/>
-Submitted to IJCV special issue: Generative Adversarial Networks for Computer Vision, *(Under review)*<br/>
+Submitted to IJCV special issue: Generative Adversarial Networks for Computer Vision<br/>
+*(Under review)*<br/>
 
 - **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation** <br/>
 [[paper](https://arxiv.org/abs/1812.09912)] | [[code](https://github.com/WonwoongCho/GDWCT)]<br/>
