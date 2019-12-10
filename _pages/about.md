@@ -32,7 +32,7 @@ Wooyoung Kim\*, **Wonwoong Cho\***, Jangho Choi, Jiyong Kim, Cheonbok Park, Jaeg
 ICACT2019 (\* indicates equal contributions)<br/>
 
 - **Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation**<br/>
-[[paper](https://arxiv.org/abs/1804.04128)]<br/>
+[[paper](https://arxiv.org/abs/1804.04128)] | [[code](https://github.com/awesome-davian/Text2Colors)]<br/>
 Hyojin Bahng\*, Seungjoo Yoo\*, **Wonwoong Cho\***, David Keetae Park, Ziming Wu, Xiaojuan Ma, Jaegul Choo<br/>
 ECCV2018 (\* indicates equal contributions)<br/>
 
