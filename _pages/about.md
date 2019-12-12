@@ -15,7 +15,7 @@ Publication
 
 - **Unpaired Image Translation via Adaptive Convolution-based Normalization**<br/>
 [[paper](https://arxiv.org/abs/1911.13271)]<br/>
-**Wonwoong cho\***, Kangyeol Kim\*, Eungyeup Kim, Hyunwoo Kim, Jaegul Choo<br/>
+**Wonwoong cho\***, Kangyeol Kim\*, Eungyeup Kim, Hyunwoo J. Kim, Jaegul Choo<br/>
 
 - **What and Where to Translate: Local Mask-based Image-to-Image Translation** <br/>
 [[paper](https://arxiv.org/abs/1906.03598)]<br/>
