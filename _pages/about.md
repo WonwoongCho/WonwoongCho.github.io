@@ -22,7 +22,7 @@ Publication
 **Wonwoong Cho**, Seunghwan Choi, Junwoo Park, David Keetae Park, Tao Qin, Jaegul Choo<br/>
 
 - **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation** <br/>
-[[paper](https://arxiv.org/abs/1812.09912)] | [[code](https://github.com/WonwoongCho/GDWCT)] | [[video](https://youtu.be/PzALQZOy09c?t=362)] | [[presentation material](https://drive.google.com/open?id=1Kkk0eYMV-ntqrCvb2vmdPSkZqla5Ix4W)]<br/>
+[[paper](https://arxiv.org/abs/1812.09912)] | [[code](https://github.com/WonwoongCho/GDWCT)] | [[video](https://youtu.be/PzALQZOy09c?t=364)] | [[presentation material](https://drive.google.com/open?id=1Kkk0eYMV-ntqrCvb2vmdPSkZqla5Ix4W)]<br/>
 **Wonwoong Cho**, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo<br/>
 CVPR2019 (oral)<br/>
 
