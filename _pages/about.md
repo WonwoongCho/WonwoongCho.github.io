@@ -25,7 +25,7 @@ Publication
 - **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation** <br/>
 [[paper](https://arxiv.org/abs/1812.09912)] | [[code](https://github.com/WonwoongCho/GDWCT)] | [[video](https://youtu.be/PzALQZOy09c?t=364)] | [[presentation material](https://drive.google.com/open?id=1Kkk0eYMV-ntqrCvb2vmdPSkZqla5Ix4W)]<br/>
 **Wonwoong Cho**, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo<br/>
-**CVPR2019 (oral)**<br/>
+CVPR2019 (**oral**)<br/>
 
 - **A Comparison of the Effects of Data Imputation Methods on Model Performance** <br/>
 [[paper](https://ieeexplore.ieee.org/abstract/document/8702000)]<br/>
@@ -35,7 +35,7 @@ ICACT2019 (\* indicates equal contributions)<br/>
 - **Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation**<br/>
 [[paper](https://arxiv.org/abs/1804.04128)] | [[code](https://github.com/awesome-davian/Text2Colors)]<br/>
 Hyojin Bahng\*, Seungjoo Yoo\*, **Wonwoong Cho\***, David Keetae Park, Ziming Wu, Xiaojuan Ma, Jaegul Choo<br/>
-**ECCV2018** (\* indicates **equal contributions**)<br/>
+ECCV2018 (\* indicates **equal contributions**)<br/>
 
 
 
