@@ -20,6 +20,7 @@ Publication
 - **What and Where to Translate: Local Mask-based Image-to-Image Translation** <br/>
 [[paper](https://arxiv.org/abs/1906.03598)]<br/>
 **Wonwoong Cho**, Seunghwan Choi, Junwoo Park, David Keetae Park, Tao Qin, Jaegul Choo<br/>
+**(Under review)
 
 - **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation** <br/>
 [[paper](https://arxiv.org/abs/1812.09912)] | [[code](https://github.com/WonwoongCho/GDWCT)] | [[video](https://youtu.be/PzALQZOy09c?t=364)] | [[presentation material](https://drive.google.com/open?id=1Kkk0eYMV-ntqrCvb2vmdPSkZqla5Ix4W)]<br/>
