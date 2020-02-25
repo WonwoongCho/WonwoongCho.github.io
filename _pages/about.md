@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. student in Computer Science at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). My research interest lies in Generative Models, Interactive Deep Learning, and Unsupervised Learning. I received B.A. in the department of Film, Television and Multimedia at Sungkyunkwan University. 
+I am a M.S. student in Computer Science at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). My research interest lies in Generative Models, Interpretable Deep Learning, and Unsupervised Learning. I received B.A. in the department of Film, Television and Multimedia at Sungkyunkwan University. 
 
 Publication
 ======
