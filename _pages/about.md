@@ -8,20 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. student in Computer Science at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). My research interest lies in Generative Models, Interpretable Deep Learning, and Unsupervised Learning. I received B.A. in the department of Film, Television and Multimedia at Sungkyunkwan University. 
+I got an admission from Purdue ECE as a Ph.D. student and plan to start my first semester from Spring 2021. I have earned my M.S. degree in CSE at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). My research interest lies in Generative Models, Interpretable Deep Learning. I received B.A. in the department of Film, Television and Multimedia at Sungkyunkwan University. 
 
 Publication
 ======
-
-- **Unpaired Image Translation via Adaptive Convolution-based Normalization**<br/>
-[[paper](https://arxiv.org/abs/1911.13271)]<br/>
-**Wonwoong cho\***, Kangyeol Kim\*, Eungyeup Kim, Hyunwoo J. Kim, Jaegul Choo<br/>
-
-- **What and Where to Translate: Local Mask-based Image-to-Image Translation** <br/>
-[[paper](https://arxiv.org/abs/1906.03598)]<br/>
-**Wonwoong Cho**, Seunghwan Choi, Junwoo Park, David Keetae Park, Tao Qin, Jaegul Choo<br/>
-(Under review)
-
 - **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation** <br/>
 [[paper](https://arxiv.org/abs/1812.09912)] | [[code](https://github.com/WonwoongCho/GDWCT)] | [[video](https://youtu.be/PzALQZOy09c?t=364)] | [[presentation material](https://drive.google.com/open?id=1Kkk0eYMV-ntqrCvb2vmdPSkZqla5Ix4W)]<br/>
 **Wonwoong Cho**, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo<br/>
@@ -31,6 +21,10 @@ CVPR2019 (**oral**)<br/>
 [[paper](https://ieeexplore.ieee.org/abstract/document/8702000)]<br/>
 Wooyoung Kim\*, **Wonwoong Cho\***, Jangho Choi, Jiyong Kim, Cheonbok Park, Jaegul Choo<br/>
 ICACT2019 (\* indicates equal contributions)<br/>
+
+- **What and Where to Translate: Local Mask-based Image-to-Image Translation** <br/>
+[[paper](https://arxiv.org/abs/1906.03598)]<br/>
+**Wonwoong Cho**, Seunghwan Choi, Junwoo Park, David Keetae Park, Tao Qin, Jaegul Choo<br/>
 
 - **Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation**<br/>
 [[paper](https://arxiv.org/abs/1804.04128)] | [[code](https://github.com/awesome-davian/Text2Colors)]<br/>
