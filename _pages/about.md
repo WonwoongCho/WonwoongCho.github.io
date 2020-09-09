@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I got an admission from Purdue ECE as a Ph.D. student and plan to start my first semester from Spring 2021. I have earned my M.S. degree in CSE at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). My research interest lies in Generative Models, Interpretable Deep Learning. I received B.A. in the department of Film, Television and Multimedia at Sungkyunkwan University. 
+I got an admission from Purdue ECE as a Ph.D. student and plan to start my first semester from Spring 2021. I have earned my M.S. degree in CSE at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). My research interest lies in Generative Models, Interpretable Deep Learning. I received B.A. in the department of Film, Television and Multimedia at Sungkyunkwan University in Korea. 
 
 Publication
 ======
