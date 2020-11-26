@@ -10,8 +10,18 @@ redirect_from:
 
 I got an admission from Purdue ECE as a Ph.D. student and plan to start my first semester from Spring 2021. I have earned my M.S. degree in CSE at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). My research interest lies in Generative Models, Interpretable Deep Learning. I received B.A. in the department of Film, Television and Multimedia at Sungkyunkwan University in Korea. 
 
-Publication
+Publications
 ======
+- **StyleUV: Diverse and High-fidelity UV Map Generative Model** <br/>
+[[paper](https://arxiv.org/abs/2011.12893)]<br/>
+Myunggi Lee\*, **Wonwoong Cho\***, Moonheum Kim, David I. Inouye, Nojun Kwak<br/>
+(Under review, \* indicates **equal contributions**)<br/>
+
+- **Enhanced 3DMM Attribute Control via Synthetic Dataset Creation Pipeline** <br/>
+[[paper](https://arxiv.org/abs/2011.12833)]<br/>
+**Wonwoong Cho\***, Inyeop Lee\*, David I. Inouye<br/>
+(Under review, \* indicates **equal contributions**)<br/>
+
 - **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation** <br/>
 [[paper](https://arxiv.org/abs/1812.09912)] | [[code](https://github.com/WonwoongCho/GDWCT)] | [[video](https://youtu.be/PzALQZOy09c?t=364)] | [[presentation material](https://drive.google.com/open?id=1Kkk0eYMV-ntqrCvb2vmdPSkZqla5Ix4W)]<br/>
 **Wonwoong Cho**, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo<br/>
