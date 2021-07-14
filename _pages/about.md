@@ -17,20 +17,16 @@ Publications
 Myunggi Lee\*, **Wonwoong Cho\***, Moonheum Kim, David I. Inouye, Nojun Kwak<br/>
 (Under review, \* indicates **equal contributions**)<br/>
 
-- **Enhanced 3DMM Attribute Control via Synthetic Dataset Creation Pipeline** <br/>
-[[paper](https://arxiv.org/abs/2011.12833)]<br/>
-**Wonwoong Cho\***, Inyeop Lee\*, David I. Inouye<br/>
-(Under review, \* indicates **equal contributions**)<br/>
+- **Why be adversarial? Let's cooperate!: Cooperative Dataset Alignment via JSD Upper Bound** <br/>
+[[paper](https://openreview.net/forum?id=_l8XYZe88K4)] <br/>
+**Wonwoong Cho\***, Ziyu Gong\*, David I. Inouye<br/>
+ICML2021 Workshop INNF+ (**spotlight talk**)<br/>
+
 
 - **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation** <br/>
 [[paper](https://arxiv.org/abs/1812.09912)] | [[code](https://github.com/WonwoongCho/GDWCT)] | [[video](https://youtu.be/PzALQZOy09c?t=364)] | [[presentation material](https://drive.google.com/open?id=1Kkk0eYMV-ntqrCvb2vmdPSkZqla5Ix4W)]<br/>
 **Wonwoong Cho**, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo<br/>
 CVPR2019 (**oral**)<br/>
-
-- **A Comparison of the Effects of Data Imputation Methods on Model Performance** <br/>
-[[paper](https://ieeexplore.ieee.org/abstract/document/8702000)]<br/>
-Wooyoung Kim\*, **Wonwoong Cho\***, Jangho Choi, Jiyong Kim, Cheonbok Park, Jaegul Choo<br/>
-ICACT2019 (\* indicates equal contributions)<br/>
 
 - **What and Where to Translate: Local Mask-based Image-to-Image Translation** <br/>
 [[paper](https://arxiv.org/abs/1906.03598)]<br/>
