@@ -10,12 +10,16 @@ redirect_from:
 
 I am a Ph.D. student at Purdue ECE. I have earned my M.S. degree in CSE at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). My research interest lies in Generative Models, Interpretable Deep Learning. I received B.A. in the department of Film, Television and Multimedia at Sungkyunkwan University in Korea. 
 
+
+Working Papers
+======
+- **Why be adversarial? Let's cooperate!: Cooperative Dataset Alignment via JSD Upper Bound** <br/>
+**Wonwoong Cho\***, Ziyu Gong\*, David I. Inouye<br/>
+(Under review, \* indicates **equal contributions**)<br/>
+
+
 Publications
 ======
-- **StyleUV: Diverse and High-fidelity UV Map Generative Model** <br/>
-[[paper](https://arxiv.org/abs/2011.12893)]<br/>
-Myunggi Lee\*, **Wonwoong Cho\***, Moonheum Kim, David I. Inouye, Nojun Kwak<br/>
-(Under review, \* indicates **equal contributions**)<br/>
 
 - **Why be adversarial? Let's cooperate!: Cooperative Dataset Alignment via JSD Upper Bound** <br/>
 [[paper](https://openreview.net/forum?id=_l8XYZe88K4)] <br/>
