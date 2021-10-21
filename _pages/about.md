@@ -15,6 +15,7 @@ Working Papers
 ======
 - **Why be adversarial? Let's cooperate!: Cooperative Dataset Alignment via JSD Upper Bound** <br/>
 **Wonwoong Cho\***, Ziyu Gong\*, David I. Inouye<br/>
+Submitted to one of top conferences in AI
 (Under review, \* indicates **equal contributions**)<br/>
 
 
