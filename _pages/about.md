@@ -13,7 +13,7 @@ I am a Ph.D. student at Purdue ECE. I have earned my M.S. degree in CSE at Korea
 
 Working Papers
 ======
-- **Why be adversarial? Let's cooperate!: Cooperative Dataset Alignment via JSD Upper Bound** <br/>
+- **An extension for ICML'21 Workshop paper** <br/>
 **Wonwoong Cho\***, Ziyu Gong\*, David I. Inouye<br/>
 Submitted to one of top conferences in AI
 (Under review, \* indicates **equal contributions**)<br/>
