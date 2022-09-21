@@ -30,7 +30,7 @@ Neurips'22 (\* **equal contributions**)<br/>
 - **Why be adversarial? Let's cooperate!: Cooperative Dataset Alignment via JSD Upper Bound** <br/>
 [[paper](https://openreview.net/forum?id=_l8XYZe88K4)] <br/>
 **Wonwoong Cho\***, Ziyu Gong\*, David I. Inouye<br/>
-ICML2021 Workshop INNF+ (**spotlight talk**)<br/>
+ICML'21 Workshop INNF+ (**spotlight talk**)<br/>
 
 
 - **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation** <br/>
