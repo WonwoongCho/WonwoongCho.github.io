@@ -14,13 +14,18 @@ I am a Ph.D. student at Purdue ECE, advised by [Prof. Inouye](https://www.davidi
 Working Papers
 ======
 - **An extension for ICML'21 Workshop paper** <br/>
-**Wonwoong Cho\***, Ziyu Gong\*, David I. Inouye<br/>
-Submitted to one of top conferences in AI
-(Under review, \* indicates **equal contributions**)<br/>
+**Wonwoong Cho\***, Hareesh Ravi, Midhun Harikumar, Vinh Khuc, Ajinkya Kale, Krishna K. Singh, Cynthia Lu, David I. Inouye<br/>
+Enhanced Controllability of Diffusion Models: Unsupervised Feature Disentanglement For Diffusion Probabilistic Models, a research project with Adobe<br/>
 
 
 Publications
 ======
+
+- **Cooperative Distribution Alignment via JSD Upper Bound** <br/>
+[[paper](https://arxiv.org/abs/2207.02286)] <br/>
+**Wonwoong Cho\***, Ziyu Gong\*, David I. Inouye<br/>
+Neurips'22 (\* **equal contributions**)<br/>
+
 
 - **Why be adversarial? Let's cooperate!: Cooperative Dataset Alignment via JSD Upper Bound** <br/>
 [[paper](https://openreview.net/forum?id=_l8XYZe88K4)] <br/>
@@ -40,7 +45,7 @@ CVPR2019 (**oral**)<br/>
 - **Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation**<br/>
 [[paper](https://arxiv.org/abs/1804.04128)] | [[code](https://github.com/awesome-davian/Text2Colors)]<br/>
 Hyojin Bahng\*, Seungjoo Yoo\*, **Wonwoong Cho\***, David Keetae Park, Ziming Wu, Xiaojuan Ma, Jaegul Choo<br/>
-ECCV2018 (\* indicates **equal contributions**)<br/>
+ECCV2018 (\* **equal contributions**)<br/>
 
 
 
