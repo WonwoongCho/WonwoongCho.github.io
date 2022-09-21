@@ -36,7 +36,7 @@ ICML2021 Workshop INNF+ (**spotlight talk**)<br/>
 - **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation** <br/>
 [[paper](https://arxiv.org/abs/1812.09912)] | [[code](https://github.com/WonwoongCho/GDWCT)] | [[video](https://youtu.be/PzALQZOy09c?t=364)] | [[presentation material](https://drive.google.com/open?id=1Kkk0eYMV-ntqrCvb2vmdPSkZqla5Ix4W)]<br/>
 **Wonwoong Cho**, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo<br/>
-CVPR2019 (**oral**)<br/>
+CVPR'19 (**oral**)<br/>
 
 - **What and Where to Translate: Local Mask-based Image-to-Image Translation** <br/>
 [[paper](https://arxiv.org/abs/1906.03598)]<br/>
@@ -45,7 +45,7 @@ CVPR2019 (**oral**)<br/>
 - **Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation**<br/>
 [[paper](https://arxiv.org/abs/1804.04128)] | [[code](https://github.com/awesome-davian/Text2Colors)]<br/>
 Hyojin Bahng\*, Seungjoo Yoo\*, **Wonwoong Cho\***, David Keetae Park, Ziming Wu, Xiaojuan Ma, Jaegul Choo<br/>
-ECCV2018 (\* **equal contributions**)<br/>
+ECCV'18 (\* **equal contributions**)<br/>
 
 
 
