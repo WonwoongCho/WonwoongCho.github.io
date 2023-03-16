@@ -13,8 +13,9 @@ I am a Ph.D. student at Purdue ECE, advised by [Prof. Inouye](https://www.davidi
 
 Working Papers
 ======
-- **Enhanced Controllability of Diffusion Models** <br/>
-**Wonwoong Cho**, Hareesh Ravi, Midhun Harikumar, Vinh Khuc, Ajinkya Kale, Krishna K. Singh, Cynthia Lu, David I. Inouye<br/>
+- **Towards Enhanced Controllability of Diffusion Models** <br/>
+[[paper](https://arxiv.org/abs/2302.14368)] <br/>
+**Wonwoong Cho**, Hareesh Ravi, Midhun Harikumar, Vinh Khuc, Krishna K. Singh, Cynthia Lu, David I. Inouye, Ajinkya Kale<br/>
 a research project with Adobe<br/>
 
 
