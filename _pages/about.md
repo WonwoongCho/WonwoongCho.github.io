@@ -13,14 +13,18 @@ I am a Ph.D. student at Purdue ECE, advised by [Prof. Inouye](https://www.davidi
 
 Working Papers
 ======
-- **Towards Enhanced Controllability of Diffusion Models** <br/>
-[[paper](https://arxiv.org/abs/2302.14368)] <br/>
-**Wonwoong Cho**, Hareesh Ravi, Midhun Harikumar, Vinh Khuc, Krishna K. Singh, Cynthia Lu, David I. Inouye, Ajinkya Kale<br/>
-a research project with Adobe<br/>
+- **Causally Motivated Diffusion Sampling Frameworks for Harnessing Contextual Bias** <br/>
+**Wonwoong Cho**, Raymond A. Yeh, David I. Inouye <br/>
+(Under review) <br/>
 
 
 Publications
 ======
+
+- **Enhanced Controllability of Diffusion Models via Feature Disentanglement and Realism-Enhanced Sampling Methods** <br/>
+[[paper](https://arxiv.org/abs/2302.14368)] <br/>
+**Wonwoong Cho**, Hareesh Ravi, Midhun Harikumar, Vinh Khuc, Krishna K. Singh, Cynthia Lu, David I. Inouye, Ajinkya Kale<br/>
+ECCV'24 <br/>
 
 - **Cooperative Distribution Alignment via JSD Upper Bound** <br/>
 [[paper](https://arxiv.org/abs/2207.02286)] <br/>
