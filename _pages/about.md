@@ -13,9 +13,15 @@ I am a Ph.D. student at Purdue ECE, advised by [Prof. Inouye](https://www.davidi
 
 Working Papers
 ======
+
+- **Text Cannot Describe Everything in an Image: Domain-Specific Attributes (Att) Adapter Augmenting Pretrained T2I Diffusion Modelss** <br/>
+**Wonwoong Cho**, Y. Chen, M. Klenk, D. Inouye, Y. Zhang, <br/>
+(Under review, draft available upon request) <br/>
+
+
 - **Causally Motivated Diffusion Sampling Frameworks for Harnessing Contextual Bias** <br/>
 **Wonwoong Cho**, Raymond A. Yeh, David I. Inouye <br/>
-(Under review) <br/>
+(Under review, draft available upon request) <br/>
 
 
 Publications
