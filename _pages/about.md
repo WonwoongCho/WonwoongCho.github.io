@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Purdue ECE, advised by [Prof. Inouye](https://www.davidinouye.com/). I have earned my M.S. degree in CSE at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). My research interest lies in Generative Models and their applications. I received B.A. in the department of Film, Television and Multimedia at Sungkyunkwan University in Korea. 
+I am a Ph.D. candidate at Purdue ECE, advised by [Prof. Inouye](https://www.davidinouye.com/). I have earned my M.S. degree in CSE at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). My research interests include AI for creativity, diffusion models, and their applications. I received B.A. in the department of Film, Television and Multimedia at Sungkyunkwan University in Korea. 
 
 
 Working Papers
