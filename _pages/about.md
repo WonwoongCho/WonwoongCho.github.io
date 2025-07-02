@@ -16,7 +16,7 @@ Working Papers
 
 - **Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention** <br/>
 **Wonwoong Cho**, Y. Zhang, Y. Chen, D. Inouye <br/>
-[[paper](https://arxiv.org/pdf/2506.24085)] <br/>
+[[Paper](https://arxiv.org/pdf/2506.24085)] [[Project page](https://arxiv.org/pdf/2506.24085)] <br/>
 (Under review) <br/>
 
 
@@ -29,38 +29,38 @@ Publications
 ======
 - **Att-Adapter: A Robust and Precise Domain-Specific Multi-Attributes T2I Diffusion Adapter via Conditional Variational Autoencoder** <br/>
 **Wonwoong Cho**, Y. Chen, M. Klenk, D. Inouye, Y. Zhang, <br/>
-[[paper](https://arxiv.org/abs/2503.11937)] <br/>
+[[Paper](https://arxiv.org/abs/2503.11937)] <br/>
 ICCV'25 <br/>
 
 
 - **Enhanced Controllability of Diffusion Models via Feature Disentanglement and Realism-Enhanced Sampling Methods** <br/>
-[[paper](https://arxiv.org/abs/2302.14368)] <br/>
+[[Paper](https://arxiv.org/abs/2302.14368)] <br/>
 **Wonwoong Cho**, Hareesh Ravi, Midhun Harikumar, Vinh Khuc, Krishna K. Singh, Cynthia Lu, David I. Inouye, Ajinkya Kale<br/>
 ECCV'24 <br/>
 
 - **Cooperative Distribution Alignment via JSD Upper Bound** <br/>
-[[paper](https://arxiv.org/abs/2207.02286)] <br/>
+[[Paper](https://arxiv.org/abs/2207.02286)] <br/>
 **Wonwoong Cho\***, Ziyu Gong\*, David I. Inouye<br/>
 Neurips'22 (\* **equal contributions**)<br/>
 
 
 - **Why be adversarial? Let's cooperate!: Cooperative Dataset Alignment via JSD Upper Bound** <br/>
-[[paper](https://openreview.net/forum?id=_l8XYZe88K4)] <br/>
+[[Paper](https://openreview.net/forum?id=_l8XYZe88K4)] <br/>
 **Wonwoong Cho\***, Ziyu Gong\*, David I. Inouye<br/>
 ICML'21 Workshop INNF+ (**spotlight talk**)<br/>
 
 
 - **Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation** <br/>
-[[paper](https://arxiv.org/abs/1812.09912)] | [[code](https://github.com/WonwoongCho/GDWCT)] | [[video](https://youtu.be/PzALQZOy09c?t=364)] | [[presentation material](https://drive.google.com/open?id=1Kkk0eYMV-ntqrCvb2vmdPSkZqla5Ix4W)]<br/>
+[[Paper](https://arxiv.org/abs/1812.09912)] | [[code](https://github.com/WonwoongCho/GDWCT)] | [[video](https://youtu.be/PzALQZOy09c?t=364)] | [[Presentation material](https://drive.google.com/open?id=1Kkk0eYMV-ntqrCvb2vmdPSkZqla5Ix4W)]<br/>
 **Wonwoong Cho**, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo<br/>
 CVPR'19 (**oral**)<br/>
 
 - **What and Where to Translate: Local Mask-based Image-to-Image Translation** <br/>
-[[paper](https://arxiv.org/abs/1906.03598)]<br/>
+[[Paper](https://arxiv.org/abs/1906.03598)]<br/>
 **Wonwoong Cho**, Seunghwan Choi, Junwoo Park, David Keetae Park, Tao Qin, Jaegul Choo<br/>
 
 - **Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation**<br/>
-[[paper](https://arxiv.org/abs/1804.04128)] | [[code](https://github.com/awesome-davian/Text2Colors)]<br/>
+[[Paper](https://arxiv.org/abs/1804.04128)] | [[code](https://github.com/awesome-davian/Text2Colors)]<br/>
 Hyojin Bahng\*, Seungjoo Yoo\*, **Wonwoong Cho\***, David Keetae Park, Ziming Wu, Xiaojuan Ma, Jaegul Choo<br/>
 ECCV'18 (\* **equal contributions**)<br/>
 
