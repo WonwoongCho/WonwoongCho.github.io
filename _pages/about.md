@@ -14,18 +14,24 @@ I am a Ph.D. student at Purdue ECE, advised by [Prof. Inouye](https://www.davidi
 Working Papers
 ======
 
-- **Text Cannot Describe Everything in an Image: Domain-Specific Attributes (Att) Adapter Augmenting Pretrained T2I Diffusion Modelss** <br/>
-**Wonwoong Cho**, Y. Chen, M. Klenk, D. Inouye, Y. Zhang, <br/>
-(Under review, draft available upon request) <br/>
+- **Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention** <br/>
+**Wonwoong Cho**, Y. Zhang, Y. Chen, D. Inouye <br/>
+[[paper](https://arxiv.org/pdf/2506.24085)] <br/>
+(Under review) <br/>
 
 
-- **Causally Motivated Diffusion Sampling Frameworks for Harnessing Contextual Bias** <br/>
+- **Causally Retrieve-and-Harness Contextual Bias of Pretrained Diffusion Models** <br/>
 **Wonwoong Cho**, Raymond A. Yeh, David I. Inouye <br/>
 (Under review, draft available upon request) <br/>
 
 
 Publications
 ======
+- **Att-Adapter: A Robust and Precise Domain-Specific Multi-Attributes T2I Diffusion Adapter via Conditional Variational Autoencoder** <br/>
+**Wonwoong Cho**, Y. Chen, M. Klenk, D. Inouye, Y. Zhang, <br/>
+[[paper](https://arxiv.org/abs/2503.11937)] <br/>
+ICCV'25 <br/>
+
 
 - **Enhanced Controllability of Diffusion Models via Feature Disentanglement and Realism-Enhanced Sampling Methods** <br/>
 [[paper](https://arxiv.org/abs/2302.14368)] <br/>
