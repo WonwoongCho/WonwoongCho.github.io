@@ -16,7 +16,7 @@ Working Papers
 
 - **Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention** <br/>
 **Wonwoong Cho**, Y. Zhang, Y. Chen, D. Inouye <br/>
-[[Paper](https://arxiv.org/pdf/2506.24085)] [[Project page](https://arxiv.org/pdf/2506.24085)] <br/>
+[[Paper](https://arxiv.org/pdf/2506.24085)] [[Project page](https://imagineforme.github.io/)] <br/>
 (Under review) <br/>
 
 
