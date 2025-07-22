@@ -29,7 +29,7 @@ Publications
 ======
 - **Att-Adapter: A Robust and Precise Domain-Specific Multi-Attributes T2I Diffusion Adapter via Conditional Variational Autoencoder** <br/>
 **Wonwoong Cho**, Y. Chen, M. Klenk, D. Inouye, Y. Zhang, <br/>
-[[Paper](https://arxiv.org/abs/2503.11937)] <br/>
+[[Paper](https://arxiv.org/abs/2503.11937)] [[Project page](https://tri-mac.github.io/att-adapter/)] [[code](https://github.com/WonwoongCho/Att-Adapter)]  <br/>
 ICCV'25 <br/>
 
 
