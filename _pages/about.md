@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate at Purdue ECE, advised by [Prof. Inouye](https://www.davidinouye.com/). I will graduate in Fall 2025 and am currently seeking new job opportunities. 
 
-My research interests lie in GenAI and its applications. I have earned my M.S. degree in CSE at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). I received B.A. in the department of Film, Television and Multimedia at Sungkyunkwan University in Korea. 
+My research interests lie in Multimodal GenAI, including Diffusion Models. I have earned my M.S. degree in CSE at Korea University, advised by [Prof. Jaegul Choo](https://sites.google.com/site/jaegulchoo/). I received B.A. in the department of Film, Television and Multimedia at Sungkyunkwan University in Korea. 
 
 
 Working Papers
